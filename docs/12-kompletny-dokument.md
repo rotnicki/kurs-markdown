@@ -1,0 +1,111 @@
+---
+layout: default
+title: "12. Kompletny dokument"
+---
+
+## Cel lekcji
+
+W tej lekcji połączysz poznane elementy w jeden komunikat klubowy.
+
+## Przykładowy dokument
+
+```markdown
+# Udany start zawodników w turnieju showdown
+
+W dniach 18–19 lipca zawodnicy naszego klubu uczestniczyli w ogólnopolskim turnieju showdown.
+
+## Reprezentanci klubu
+
+W zawodach wystartowali:
+
+- Anna Nowak
+- Jan Kowalski
+- Piotr Wiśniewski
+
+## Wyniki
+
+1. Anna Nowak — pierwsze miejsce
+2. Jan Kowalski — trzecie miejsce
+3. Piotr Wiśniewski — piąte miejsce
+
+**Gratulujemy wszystkim zawodnikom.**
+
+## Wypowiedź prezesa
+
+> Cała drużyna zaprezentowała bardzo dobrą formę i sportową postawę.
+
+— Łukasz Skąpski, prezes klubu
+
+Szczegółowe wyniki znajdują się w [komunikacie organizatora](https://example.com/wyniki).
+```
+
+## Jak jest zbudowany dokument
+
+Dokument zawiera:
+
+- jeden tytuł poziomu pierwszego;
+- zwykły akapit wprowadzający;
+- nagłówki poziomu drugiego;
+- listę punktowaną;
+- listę numerowaną;
+- pogrubienie;
+- cytat;
+- opisowy link.
+
+## Kolejność pracy autora
+
+1. Najpierw napisz całą treść.
+2. Podziel tekst na logiczne części.
+3. Nadaj dokumentowi tytuł.
+4. Dodaj nagłówki części.
+5. Zamień wyliczenia na listy.
+6. Dodaj linki i cytaty.
+7. Sprawdź puste wiersze.
+8. Przeczytaj cały dokument od początku.
+
+## Ćwiczenie końcowe
+
+Przygotuj komunikat zawierający:
+
+- tytuł „Zaproszenie na trening otwarty”;
+- krótki akapit wprowadzający;
+- nagłówek „Termin i miejsce”;
+- akapit z datą, godziną i miejscem;
+- nagłówek „Co należy zabrać”;
+- listę trzech rzeczy;
+- pogrubiony termin zgłoszeń;
+- link o tekście „Formularz zgłoszeniowy”.
+
+Możesz użyć przykładowego adresu:
+
+```text
+https://example.com/formularz
+```
+
+## Przykładowe rozwiązanie
+
+```markdown
+# Zaproszenie na trening otwarty
+
+Zapraszamy członków klubu i osoby zainteresowane na wspólny trening otwarty.
+
+## Termin i miejsce
+
+Trening odbędzie się 24 sierpnia o godzinie 11:00 w hali sportowej przy ulicy Przykładowej 10.
+
+## Co należy zabrać
+
+- strój sportowy
+- obuwie na zmianę
+- wodę
+
+Termin zgłoszeń: **20 sierpnia, godzina 18:00**.
+
+Zapisy przyjmujemy przez [formularz zgłoszeniowy](https://example.com/formularz).
+```
+
+## Nawigacja
+
+- [Poprzednia lekcja: Obrazy](11-obrazy.html)
+- [Wróć do spisu lekcji](index.html)
+- [Następna lekcja: Sprawdzanie tekstu](13-sprawdzanie.html)

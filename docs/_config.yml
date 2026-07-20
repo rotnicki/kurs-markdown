@@ -1,0 +1,8 @@
+title: "Markdown od podstaw"
+description: "Samodzielny kurs przygotowywania uporządkowanych dokumentów w Markdown"
+lang: "pl-PL"
+markdown: kramdown
+kramdown:
+  input: GFM
+exclude:
+  - README.md
