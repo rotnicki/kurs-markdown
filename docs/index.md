@@ -47,11 +47,10 @@ Najlepiej uczyć się po jednej lekcji naraz. Każda z nich powinna zająć oko�
 7. [Pogrubienie i kursywa](07-wyroznienia.html)
 8. [Odnośniki, czyli linki](08-linki.html)
 9. [Cytaty blokowe](09-cytaty.html)
-10. [Grawis i pokazywanie kodu](10-kod-i-grawis.html)
-11. [Obrazy i tekst alternatywny — lekcja dodatkowa](11-obrazy.html)
-12. [Kompletny dokument](12-kompletny-dokument.html)
-13. [Sprawdzanie tekstu i najczęstsze błędy](13-sprawdzanie.html)
-14. [Ściągawka](14-sciagawka.html)
+10. [Obrazy i tekst alternatywny — lekcja dodatkowa](11-obrazy.html)
+11. [Kompletny dokument](12-kompletny-dokument.html)
+12. [Sprawdzanie tekstu i najczęstsze błędy](13-sprawdzanie.html)
+13. [Ściągawka](14-sciagawka.html)
 
 ## Materiały
 
