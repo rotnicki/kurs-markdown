@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "11. Obrazy i tekst alternatywny — lekcja dodatkowa"
+title: "10. Obrazy i tekst alternatywny — lekcja dodatkowa"
 ---
 
 Ta lekcja jest dodatkowa. Na początku można ją pominąć.
@@ -73,6 +73,6 @@ https://example.com/zloty-medal.jpg
 
 ## Nawigacja
 
-- [Poprzednia lekcja: Grawis i kod](10-kod-i-grawis.html)
+- [Poprzednia lekcja: Cytaty blokowe](09-cytaty.html)
 - [Wróć do spisu lekcji](index.html)
 - [Następna lekcja: Kompletny dokument](12-kompletny-dokument.html)
