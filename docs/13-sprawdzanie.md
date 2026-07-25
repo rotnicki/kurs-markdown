@@ -7,7 +7,7 @@ title: "12. Sprawdzanie tekstu i najczęstsze błędy"
 
 Po zakończeniu pisania sprawdź:
 
-1. Czy dokument ma jeden nagłówek poziomu pierwszego?
+1. Czy prosty samodzielny dokument ma jeden nagłówek poziomu pierwszego?
 2. Czy kolejne części mają opisowe nagłówki?
 3. Czy poziomy nagłówków tworzą logiczną kolejność?
 4. Czy pomiędzy akapitami znajduje się pusty wiersz?
