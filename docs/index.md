@@ -8,6 +8,8 @@ Ten kurs pokazuje, jak przygotowywać uporządkowane dokumenty w zwykłym tekśc
 
 Kurs jest przeznaczony dla osób, które dopiero zaczynają pracę z Markdown i tworzą lub redagują treści. Został przygotowany tak, aby mogły z niego wygodnie korzystać także osoby używające czytników ekranu. Dlatego instrukcje są proste, jednoznaczne i dokładnie opisują używane znaki.
 
+Kurs obejmuje wybrane, podstawowe elementy składni Markdown, potrzebne do przygotowywania prostych i uporządkowanych dokumentów. Nie przedstawia wszystkich możliwości Markdown ani rozszerzeń dostępnych w poszczególnych programach i serwisach. Jego celem jest solidne opanowanie podstaw.
+
 Pomoże między innymi:
 
 - autorom tworzyć czytelne i uporządkowane dokumenty;
