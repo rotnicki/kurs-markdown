@@ -1,13 +1,13 @@
 ---
 layout: page
-title: "15. Oficjalne źródła"
+title: "Oficjalne źródła"
 ---
 
 Kurs przedstawia celowo ograniczony, podstawowy zestaw składni, który jest czytelny i przenośny pomiędzy różnymi narzędziami.
 
 ## Podstawy standardu
 
-- [CommonMark Specification](https://spec.commonmark.org/current/) — opis podstawowej składni Markdown, między innymi akapitów, nagłówków, list, cytatów, wyróżnień, linków i kodu.
+- [CommonMark Specification](https://spec.commonmark.org/current/) — opis podstawowej składni Markdown, między innymi akapitów, nagłówków, list, cytatów, wyróżnień i linków.
 - [GitHub Flavored Markdown Specification](https://github.github.com/gfm/) — odmiana CommonMark używana przez GitHub.
 - [Podstawowa składnia pisania i formatowania na GitHubie](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) — oficjalna dokumentacja GitHuba.
 
