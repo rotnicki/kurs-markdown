@@ -6,11 +6,13 @@ description: "Samodzielny, bardzo podstawowy kurs Markdown dla autorów i redakt
 
 Ten kurs pokazuje, jak przygotowywać uporządkowane dokumenty w zwykłym tekście. Nie jest to kurs programowania.
 
-Kurs został pomyślany przede wszystkim dla:
+Kurs jest przeznaczony dla osób, które tworzą, redagują i przygotowują do publikacji treści klubu.
 
-- **Łukasza**, który tworzy dokumenty i jest ich głównym autorem;
-- **Marka**, który redaguje, oczyszcza i przygotowuje teksty do publikacji;
-- innych autorów i redaktorów treści klubu.
+Pomoże między innymi:
+
+- autorom tworzyć czytelne i uporządkowane dokumenty;
+- redaktorom poprawiać oraz przygotowywać teksty do publikacji;
+- innym osobom pracującym z dokumentami i treściami internetowymi.
 
 Do nauki wystarczą:
 
