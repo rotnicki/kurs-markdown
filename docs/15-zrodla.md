@@ -26,7 +26,6 @@ W kursie celowo pominięto bardziej zaawansowane elementy, takie jak:
 
 - tabele;
 - przypisy;
-- zagnieżdżone listy;
 - kod HTML;
 - metadane YAML;
 - automatyczne generowanie dokumentów;
