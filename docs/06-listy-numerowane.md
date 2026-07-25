@@ -30,23 +30,25 @@ Wpisz numer, kropkę, jedną spację i treść.
 3. Zapisz plik.
 ```
 
-## Numer musi mieć kropkę
+## W tym kursie używamy kropki
 
-Prawidłowo:
+Markdown dopuszcza dwa sposoby zapisu znacznika listy numerowanej.
+
+Z kropką:
 
 ```markdown
 1. Pierwszy krok
 2. Drugi krok
 ```
 
-Nieprawidłowo:
+Z nawiasem zamykającym:
 
 ```markdown
 1) Pierwszy krok
 2) Drugi krok
 ```
 
-Niektóre programy rozpoznają również nawias, ale w kursie używamy najbardziej uniwersalnego zapisu z kropką.
+Oba zapisy są poprawne. W tym kursie konsekwentnie używamy kropki, aby przykłady były spójne.
 
 ## Używaj rzeczywistych numerów
 
@@ -76,7 +78,7 @@ Przykład:
 3. Prześlij dokument redaktorowi.
 ```
 
-Elementy listy wewnętrznej rozpoczynają się od czterech spacji.
+W tym kursie przyjmujemy prostą zasadę: elementy listy wewnętrznej rozpoczynamy od czterech spacji.
 
 Przed każdym elementem listy wewnętrznej wpisz:
 
