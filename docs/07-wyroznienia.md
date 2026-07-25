@@ -84,16 +84,6 @@ lepiej napisać także jednoznacznie:
 Termin zgłoszeń: **piątek, 15 sierpnia, godzina 18:00**.
 ```
 
-## Przekreślenie — informacja dodatkowa
-
-GitHub obsługuje także przekreślenie:
-
-```markdown
-~~Nieaktualna informacja~~
-```
-
-Nie jest to element potrzebny na początku. W opublikowanym dokumencie lepiej zwykle usunąć nieaktualny tekst niż pozostawiać go jako przekreślony.
-
 ## Ćwiczenie
 
 Wyróżnij termin w zdaniu:
