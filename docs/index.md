@@ -54,7 +54,6 @@ Najlepiej uczyć się po jednej lekcji naraz. Każda z nich powinna zająć oko�
 
 ## Materiały
 
-- [Pobierz komplet ćwiczeń i rozwiązań](materialy/cwiczenia-markdown.zip).
 - [Zobacz oficjalne źródła wykorzystane przy przygotowaniu kursu](15-zrodla.html).
 
 > Najważniejsza zasada: Markdown to nadal zwykły tekst. Kilka prostych znaków informuje tylko, czym jest dany fragment dokumentu.
