@@ -14,7 +14,7 @@ Po tej lekcji będziesz umieć:
 
 ## Czego potrzebujesz
 
-Do podstawowej nauki wystarczy zwykły Notatnik systemu Windows. Markdown nie wymaga specjalnego edytora.
+Plik Markdown jest zwykłym plikiem tekstowym, dlatego można go utworzyć w dowolnym systemie i edytorze tekstu. W tej lekcji pokazujemy pracę w Notatniku systemu Windows jako jednym konkretnym przykładzie.
 
 ## Co oznacza `.md`
 
