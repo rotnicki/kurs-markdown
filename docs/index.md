@@ -41,7 +41,7 @@ Najlepiej uczyć się po jednej lekcji naraz. Każda z nich powinna zająć oko�
 1. [Czym jest Markdown](01-wprowadzenie.html)
 2. [Notatnik i pliki z rozszerzeniem `.md`](02-notatnik-i-pliki.html)
 3. [Akapity i puste wiersze](03-akapity.html)
-4. [Nagłówki i porządek dokumentu](04-naglowki.html)
+4. [Nagłówki i struktura dokumentu](04-naglowki.html)
 5. [Listy punktowane](05-listy-punktowane.html)
 6. [Listy numerowane](06-listy-numerowane.html)
 7. [Pogrubienie i kursywa](07-wyroznienia.html)
