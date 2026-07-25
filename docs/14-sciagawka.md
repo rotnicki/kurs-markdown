@@ -39,12 +39,36 @@ Drugi akapit.
 - trzeci element
 ```
 
+## Zagnieżdżona lista punktowana
+
+Elementy listy wewnętrznej rozpocznij od czterech spacji.
+
+```markdown
+- Dokumenty:
+    - legitymacja
+    - zgoda opiekuna
+- Wyposażenie:
+    - strój sportowy
+    - woda
+```
+
 ## Lista numerowana
 
 ```markdown
 1. pierwszy krok
 2. drugi krok
 3. trzeci krok
+```
+
+## Zagnieżdżona lista numerowana
+
+Elementy listy wewnętrznej rozpocznij od czterech spacji.
+
+```markdown
+1. Przygotuj dokument.
+    1. Napisz treść.
+    2. Dodaj nagłówki.
+2. Sprawdź dokument.
 ```
 
 ## Pogrubienie
@@ -83,6 +107,7 @@ Drugi akapit.
 - Logiczna kolejność nagłówków.
 - Puste wiersze pomiędzy akapitami.
 - Każdy element listy w osobnym wierszu.
+- Cztery spacje przed elementami listy wewnętrznej.
 - Opisowe teksty linków.
 - Zamknięte pary gwiazdek i nawiasów.
 - Brak przypadkowych znaków.
