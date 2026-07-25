@@ -22,8 +22,8 @@ Do nauki wystarczą:
 
 - komputer z systemem Windows;
 - Notatnik;
-- używany na co dzień czytnik ekranu;
-- przeglądarka internetowa.
+- przeglądarka internetowa;
+- czytnik ekranu — jeżeli z niego korzystasz.
 
 Nie trzeba instalować rozbudowanego edytora ani zapamiętywać wszystkiego. Zawsze można wrócić do [krótkiej ściągawki](14-sciagawka.html).
 
