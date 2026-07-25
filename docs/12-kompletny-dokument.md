@@ -18,9 +18,11 @@ W dniach 18–19 lipca zawodnicy naszego klubu uczestniczyli w ogólnopolskim tu
 
 W zawodach wystartowali:
 
-- Anna Nowak
-- Jan Kowalski
-- Piotr Wiśniewski
+- Kobiety:
+    - Anna Nowak
+- Mężczyźni:
+    - Jan Kowalski
+    - Piotr Wiśniewski
 
 ## Wyniki
 
@@ -46,7 +48,7 @@ Dokument zawiera:
 - jeden nagłówek poziomu pierwszego;
 - zwykły akapit wprowadzający;
 - nagłówki poziomu drugiego;
-- listę punktowaną;
+- zagnieżdżoną listę punktowaną;
 - listę numerowaną;
 - pogrubienie;
 - cytat;
@@ -72,7 +74,7 @@ Przygotuj komunikat zawierający:
 - nagłówek poziomu drugiego „Termin i miejsce”;
 - akapit z datą, godziną i miejscem;
 - nagłówek poziomu drugiego „Co należy zabrać”;
-- listę trzech rzeczy;
+- zagnieżdżoną listę punktowaną z grupami „Dokumenty” i „Wyposażenie”;
 - pogrubiony termin zgłoszeń;
 - link o tekście „Formularz zgłoszeniowy”.
 
@@ -95,9 +97,13 @@ Trening odbędzie się 24 sierpnia o godzinie 11:00 w hali sportowej przy ulicy 
 
 ## Co należy zabrać
 
-- strój sportowy
-- obuwie na zmianę
-- wodę
+- Dokumenty:
+    - legitymację
+    - zgodę opiekuna
+- Wyposażenie:
+    - strój sportowy
+    - obuwie na zmianę
+    - wodę
 
 Termin zgłoszeń: **20 sierpnia, godzina 18:00**.
 
