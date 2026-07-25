@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "12. Kompletny dokument"
+title: "11. Kompletny dokument"
 ---
 
 ## Cel lekcji
