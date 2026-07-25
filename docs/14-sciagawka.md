@@ -41,7 +41,7 @@ Drugi akapit.
 
 ## Zagnieżdżona lista punktowana
 
-Elementy listy wewnętrznej rozpocznij od czterech spacji.
+W tym kursie elementy listy wewnętrznej rozpoczynamy od czterech spacji.
 
 ```markdown
 - Dokumenty:
@@ -62,7 +62,7 @@ Elementy listy wewnętrznej rozpocznij od czterech spacji.
 
 ## Zagnieżdżona lista numerowana
 
-Elementy listy wewnętrznej rozpocznij od czterech spacji.
+W tym kursie elementy listy wewnętrznej rozpoczynamy od czterech spacji.
 
 ```markdown
 1. Przygotuj dokument.
@@ -80,7 +80,7 @@ Elementy listy wewnętrznej rozpocznij od czterech spacji.
 ## Kursywa
 
 ```markdown
-*tytuł lub wyróżniony tekst*
+*tytuł książki lub wyróżniony tekst*
 ```
 
 ## Link
@@ -103,11 +103,11 @@ Elementy listy wewnętrznej rozpocznij od czterech spacji.
 
 ## Kontrola przed przekazaniem dokumentu
 
-- Jeden nagłówek poziomu pierwszego.
+- W prostym samodzielnym dokumencie jeden nagłówek poziomu pierwszego.
 - Logiczna kolejność nagłówków.
 - Puste wiersze pomiędzy akapitami.
 - Każdy element listy w osobnym wierszu.
-- Cztery spacje przed elementami listy wewnętrznej.
+- Cztery spacje przed elementami listy wewnętrznej zgodnie z zasadą przyjętą w kursie.
 - Opisowe teksty linków.
 - Zamknięte pary gwiazdek i nawiasów.
 - Brak przypadkowych znaków.
