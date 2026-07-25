@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "13. Sprawdzanie tekstu i najczęstsze błędy"
+title: "12. Sprawdzanie tekstu i najczęstsze błędy"
 ---
 
 ## Sprawdzenie dokumentu krok po kroku
@@ -14,7 +14,7 @@ Po zakończeniu pisania sprawdź:
 5. Czy każdy element listy znajduje się w osobnym wierszu?
 6. Czy linki mają zrozumiałe nazwy?
 7. Czy cytaty są oznaczone znakiem `>`?
-8. Czy gwiazdki, nawiasy i grawisy występują parami?
+8. Czy gwiazdki i nawiasy występują parami?
 9. Czy w tekście nie pozostały przypadkowe znaki?
 10. Czy dokument jest zrozumiały po odczytaniu od początku do końca?
 
