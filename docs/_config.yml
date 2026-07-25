@@ -1,6 +1,7 @@
 title: "Markdown od podstaw"
 description: "Samodzielny kurs przygotowywania uporządkowanych dokumentów w Markdown"
 lang: "pl-PL"
+theme: minima
 markdown: kramdown
 kramdown:
   input: GFM
