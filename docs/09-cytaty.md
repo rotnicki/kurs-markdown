@@ -46,7 +46,7 @@ Po cytacie napisz, kto jest autorem wypowiedzi.
 ```markdown
 > To był bardzo udany występ całej drużyny.
 
-— Łukasz Skąpski, prezes klubu
+— Tomasz Zieliński, prezes klubu
 ```
 
 Myślnik przed nazwiskiem jest tutaj zwykłym elementem tekstu, nie listą, ponieważ nie znajduje się na początku samodzielnego elementu wyliczenia.
@@ -66,7 +66,7 @@ Najważniejsza była dla nas dobra atmosfera i wspólna praca.
 Pod cytatem podaj autora:
 
 ```text
-Marek Janakowski
+Katarzyna Wójcik
 ```
 
 ## Rozwiązanie
@@ -74,7 +74,7 @@ Marek Janakowski
 ```markdown
 > Najważniejsza była dla nas dobra atmosfera i wspólna praca.
 
-— Marek Janakowski
+— Katarzyna Wójcik
 ```
 
 ## Nawigacja
