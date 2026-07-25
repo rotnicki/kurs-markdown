@@ -14,6 +14,8 @@ Pomoże między innymi:
 - redaktorom poprawiać oraz przygotowywać teksty do publikacji;
 - innym osobom pracującym z dokumentami i treściami internetowymi.
 
+Markdown jest niezależny od systemu operacyjnego i programu. Można go tworzyć w różnych systemach i edytorach tekstu. W tym kursie jako wspólne środowisko do ćwiczeń przyjmujemy Windows i Notatnik, dzięki czemu instrukcje pozostają proste i spójne.
+
 Do nauki wystarczą:
 
 - komputer z systemem Windows;
