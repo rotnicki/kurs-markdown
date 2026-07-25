@@ -36,7 +36,7 @@ W zawodach wystartowali:
 
 > Cała drużyna zaprezentowała bardzo dobrą formę i sportową postawę.
 
-— Łukasz Skąpski, prezes klubu
+— Tomasz Zieliński, prezes klubu
 
 Szczegółowe wyniki znajdują się w [komunikacie organizatora](https://example.com/wyniki).
 ```
