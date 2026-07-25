@@ -62,8 +62,8 @@ Pogrubienie może zaakcentować:
 
 Kursywa może oznaczać:
 
-- tytuł;
-- nazwę publikacji;
+- tytuł książki, artykułu lub innej publikacji;
+- nazwę wydarzenia albo dzieła;
 - delikatne zaakcentowanie słowa.
 
 ## Czego unikać
@@ -102,7 +102,6 @@ Puchar Polski w showdownie
 
 ```markdown
 Zgłoszenia przyjmujemy **do 20 września**.
-
 *Puchar Polski w showdownie*
 ```
 
