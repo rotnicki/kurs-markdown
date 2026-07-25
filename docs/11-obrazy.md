@@ -5,15 +5,23 @@ title: "10. Obrazy i tekst alternatywny — lekcja dodatkowa"
 
 Ta lekcja jest dodatkowa. Na początku można ją pominąć.
 
-## Budowa zapisu obrazu
+## Osadzanie obrazu w dokumencie
 
-Obraz w Markdown można zapisać tak:
+Markdown nie tworzy obrazu ani nie zapisuje go wewnątrz dokumentu. Zapis w Markdown wskazuje osobny plik graficzny, który program wyświetlający dokument może osadzić w odpowiednim miejscu.
+
+Obraz można osadzić za pomocą takiego zapisu:
 
 ```markdown
 ![Opis obrazu](https://example.com/zdjecie.jpg)
 ```
 
 Zapis przypomina link, ale rozpoczyna się wykrzyknikiem.
+
+Składa się z trzech części:
+
+1. wykrzyknika, który oznacza odwołanie do obrazu;
+2. tekstu alternatywnego umieszczonego w nawiasach kwadratowych;
+3. adresu lub ścieżki do pliku obrazu umieszczonych w nawiasach okrągłych.
 
 ## Co znajduje się w nawiasach kwadratowych
 
@@ -24,6 +32,24 @@ Przykład:
 ```markdown
 ![Czworo zawodników klubu z medalami po zakończeniu turnieju](https://example.com/medalisci.jpg)
 ```
+
+## Co znajduje się w nawiasach okrągłych
+
+W nawiasach okrągłych wpisujemy adres lub ścieżkę prowadzącą do pliku obrazu.
+
+Może to być adres internetowy:
+
+```markdown
+![Zawodnicy z medalami](https://example.com/medalisci.jpg)
+```
+
+Może to być również ścieżka do pliku znajdującego się w tym samym projekcie:
+
+```markdown
+![Zawodnicy z medalami](obrazy/medalisci.jpg)
+```
+
+Sam plik Markdown nie zawiera obrazu. Zawiera jedynie informację, gdzie znajduje się plik graficzny, który ma zostać wyświetlony.
 
 ## Dobry tekst alternatywny
 
@@ -59,7 +85,7 @@ Od lewej: Anna Nowak, Jan Kowalski i Piotr Wiśniewski.
 
 ## Ćwiczenie
 
-Przygotuj zapis obrazu przedstawiającego zawodniczkę odbierającą złoty medal. Użyj przykładowego adresu:
+Przygotuj zapis osadzający obraz przedstawiający zawodniczkę odbierającą złoty medal. Użyj przykładowego adresu:
 
 ```text
 https://example.com/zloty-medal.jpg
