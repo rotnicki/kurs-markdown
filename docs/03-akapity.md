@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: "3. Akapity i puste wiersze"
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: "12. Kompletny dokument"
 ---
 

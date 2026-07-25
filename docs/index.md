@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "Markdown od podstaw"
+layout: home
+title: "Samodzielny kurs Markdown"
 description: "Samodzielny, bardzo podstawowy kurs Markdown dla autorów i redaktorów treści."
 ---
 

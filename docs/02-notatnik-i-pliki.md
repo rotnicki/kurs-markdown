@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: "2. Notatnik i pliki z rozszerzeniem .md"
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: "11. Obrazy i tekst alternatywny — lekcja dodatkowa"
 ---
 

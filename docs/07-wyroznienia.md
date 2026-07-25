@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: "7. Pogrubienie i kursywa"
 ---
 

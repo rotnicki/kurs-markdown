@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: "10. Grawis i pokazywanie kodu"
 ---
 

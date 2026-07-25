@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: "8. Odnośniki, czyli linki"
 ---
 
