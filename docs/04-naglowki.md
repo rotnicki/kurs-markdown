@@ -1,19 +1,19 @@
 ---
 layout: page
-title: "4. Nagłówki i porządek dokumentu"
+title: "4. Nagłówki i struktura dokumentu"
 ---
 
 ## Czego nauczysz się w tej lekcji
 
 Po tej lekcji będziesz umieć:
 
-- utworzyć tytuł dokumentu;
-- podzielić dokument na części;
+- tworzyć nagłówki różnych poziomów;
+- dzielić dokument na części;
 - używać poziomów nagłówków w prawidłowej kolejności.
 
 ## Do czego służą nagłówki
 
-Nagłówki nazywają dokument i jego części. Pomagają szybko zrozumieć strukturę tekstu.
+Nagłówki porządkują dokument i nazywają jego części. Pomagają szybko zrozumieć strukturę tekstu.
 
 Czytnik ekranu może także używać nagłówków do szybkiego poruszania się po przetworzonym dokumencie.
 
@@ -21,19 +21,19 @@ Czytnik ekranu może także używać nagłówków do szybkiego poruszania się p
 
 Na początku wiersza wpisz znak krzyżyka, potem jedną spację, a następnie treść.
 
-Tytuł dokumentu:
+Nagłówek poziomu pierwszego:
 
 ```markdown
 # Wyniki mistrzostw Polski
 ```
 
-Nagłówek głównej części:
+Nagłówek poziomu drugiego:
 
 ```markdown
 ## Reprezentanci klubu
 ```
 
-Nagłówek mniejszej części:
+Nagłówek poziomu trzeciego:
 
 ```markdown
 ### Wyniki kobiet
@@ -41,9 +41,9 @@ Nagłówek mniejszej części:
 
 ## Co oznacza liczba krzyżyków
 
-- `#` — nagłówek poziomu pierwszego, zwykle tytuł dokumentu;
-- `##` — nagłówek poziomu drugiego, główna część;
-- `###` — nagłówek poziomu trzeciego, część znajdująca się wewnątrz poprzedniej części.
+- `#` — nagłówek poziomu pierwszego, stojący najwyżej w strukturze dokumentu;
+- `##` — nagłówek poziomu drugiego;
+- `###` — nagłówek poziomu trzeciego, znajdujący się wewnątrz części oznaczonej nagłówkiem poziomu drugiego.
 
 W większości prostych dokumentów wystarczą trzy poziomy.
 
@@ -109,10 +109,10 @@ Nagłówek określa strukturę. Pogrubienie jest tylko wyróżnieniem fragmentu 
 
 Przygotuj strukturę dokumentu zawierającego:
 
-- tytuł „Zebranie zarządu”;
-- część „Termin i miejsce”;
-- część „Porządek obrad”;
-- podczęść „Sprawy organizacyjne” wewnątrz porządku obrad.
+- nagłówek poziomu pierwszego „Zebranie zarządu”;
+- nagłówek poziomu drugiego „Termin i miejsce”;
+- nagłówek poziomu drugiego „Porządek obrad”;
+- nagłówek poziomu trzeciego „Sprawy organizacyjne” wewnątrz części „Porządek obrad”.
 
 ## Rozwiązanie
 
