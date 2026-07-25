@@ -13,22 +13,22 @@ Pierwszy akapit.
 Drugi akapit.
 ```
 
-## Tytuł
+## Nagłówek poziomu pierwszego
 
 ```markdown
-# Tytuł dokumentu
+# Nagłówek poziomu pierwszego
 ```
 
-## Główna część
+## Nagłówek poziomu drugiego
 
 ```markdown
-## Nazwa części
+## Nagłówek poziomu drugiego
 ```
 
-## Mniejsza część
+## Nagłówek poziomu trzeciego
 
 ```markdown
-### Nazwa mniejszej części
+### Nagłówek poziomu trzeciego
 ```
 
 ## Lista punktowana
@@ -79,7 +79,7 @@ Drugi akapit.
 
 ## Kontrola przed przekazaniem dokumentu
 
-- Jeden tytuł poziomu pierwszego.
+- Jeden nagłówek poziomu pierwszego.
 - Logiczna kolejność nagłówków.
 - Puste wiersze pomiędzy akapitami.
 - Każdy element listy w osobnym wierszu.
