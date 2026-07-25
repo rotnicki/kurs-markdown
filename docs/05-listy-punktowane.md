@@ -5,7 +5,10 @@ title: "5. Listy punktowane"
 
 ## Czego nauczysz się w tej lekcji
 
-Po tej lekcji będziesz umieć tworzyć listę elementów, których kolejność nie jest najważniejsza.
+Po tej lekcji będziesz umieć:
+
+- tworzyć listę elementów, których kolejność nie jest najważniejsza;
+- tworzyć prostą listę punktowaną wewnątrz innej listy.
 
 ## Kiedy używać listy punktowanej
 
@@ -66,6 +69,34 @@ Nie używaj przypadkowych symboli, takich jak:
 
 Standardowy łącznik jest prostszy i działa w wielu programach.
 
+## Lista wewnątrz listy
+
+Czasami jeden element listy trzeba podzielić na mniejsze elementy. Powstaje wtedy lista wewnątrz listy. Taki zapis nazywa się listą zagnieżdżoną.
+
+Przykład:
+
+```markdown
+- Dyscypliny indywidualne:
+    - showdown
+    - pływanie
+- Dyscypliny zespołowe:
+    - goalball
+    - piłka nożna
+```
+
+Elementy listy wewnętrznej rozpoczynają się od czterech spacji, a następnie od łącznika i jednej spacji.
+
+Przed każdym elementem listy wewnętrznej wpisz:
+
+1. cztery spacje;
+2. łącznik;
+3. jedną spację;
+4. treść elementu.
+
+Nie używaj klawisza Tab. W różnych programach może on działać inaczej. W tym kursie do tworzenia wcięcia używamy czterech zwykłych spacji.
+
+Dla zachowania czytelności najlepiej używać najwyżej jednego poziomu zagnieżdżenia.
+
 ## Ćwiczenie
 
 Utwórz listę punktowaną zawierającą:
@@ -82,6 +113,24 @@ Utwórz listę punktowaną zawierającą:
 - strój sportowy
 - woda
 - zgoda opiekuna
+```
+
+## Ćwiczenie dodatkowe
+
+Utwórz listę punktowaną zawierającą dwie grupy:
+
+- dokumenty: legitymacja i zgoda opiekuna;
+- wyposażenie: strój sportowy i woda.
+
+## Rozwiązanie ćwiczenia dodatkowego
+
+```markdown
+- Dokumenty:
+    - legitymacja
+    - zgoda opiekuna
+- Wyposażenie:
+    - strój sportowy
+    - woda
 ```
 
 ## Nawigacja
