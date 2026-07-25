@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "14. Ściągawka Markdown"
+title: "13. Ściągawka Markdown"
 ---
 
 ## Akapit
@@ -69,12 +69,6 @@ Drugi akapit.
 
 ```markdown
 > Treść cytatu.
-```
-
-## Krótki fragment składni lub kodu
-
-```markdown
-`fragment`
 ```
 
 ## Obraz
