@@ -49,7 +49,7 @@ Po cytacie napisz, kto jest autorem wypowiedzi.
 — Tomasz Zieliński, prezes klubu
 ```
 
-Myślnik przed nazwiskiem jest tutaj zwykłym elementem tekstu, nie listą, ponieważ nie znajduje się na początku samodzielnego elementu wyliczenia.
+Znak przed nazwiskiem jest pauzą `—`, a nie łącznikiem `-` używanym do tworzenia listy. Są to dwa różne znaki, dlatego ten wiersz nie staje się elementem listy.
 
 ## Nie używaj cytatu tylko do ozdoby
 
