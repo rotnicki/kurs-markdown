@@ -81,4 +81,4 @@ Marek Janakowski
 
 - [Poprzednia lekcja: Linki](08-linki.html)
 - [Wróć do spisu lekcji](index.html)
-- [Następna lekcja: Grawis i kod](10-kod-i-grawis.html)
+- [Następna lekcja: Obrazy i tekst alternatywny](11-obrazy.html)
