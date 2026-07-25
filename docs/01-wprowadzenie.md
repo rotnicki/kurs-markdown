@@ -18,8 +18,7 @@ Markdown jest sposobem zapisywania **uporządkowanego dokumentu w zwykłym tekś
 
 Nie wybieramy czcionki, koloru ani wielkości liter. Zamiast tego określamy znaczenie fragmentu:
 
-- to jest tytuł;
-- to jest nagłówek części;
+- to jest nagłówek;
 - to jest zwykły akapit;
 - to jest lista;
 - to jest link;
@@ -40,7 +39,7 @@ W sobotę zawodnicy naszego klubu wystartowali w turnieju.
 - Jan Kowalski — trzecie miejsce
 ```
 
-Nawet bez przetworzenia tekst pozostaje czytelny. Widać tytuł, akapit, nagłówek i listę.
+Nawet bez przetworzenia tekst pozostaje czytelny. Widać nagłówki, akapit i listę.
 
 ## To nie jest programowanie
 
@@ -48,7 +47,7 @@ W Markdown nie piszemy programu i nie wydajemy komputerowi skomplikowanych polec
 
 Można to porównać do powiedzenia redaktorowi:
 
-> Ten wiersz jest tytułem, te trzy wiersze są listą, a ten fragment jest cytatem.
+> Ten wiersz jest nagłówkiem, te trzy wiersze są listą, a ten fragment jest cytatem.
 
 ## Część zasad już znasz
 
@@ -66,7 +65,7 @@ Nie zaczynasz więc od zera. Uczysz się tylko stosować te znaki świadomie i k
 
 Nie musisz zapamiętać całej składni. W codziennej pracy najczęściej wystarczy kilka zasad:
 
-- tytuł i nagłówki;
+- nagłówki;
 - akapity;
 - listy;
 - pogrubienie;
