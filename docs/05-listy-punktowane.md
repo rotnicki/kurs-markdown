@@ -84,7 +84,7 @@ Przykład:
     - piłka nożna
 ```
 
-Elementy listy wewnętrznej rozpoczynają się od czterech spacji, a następnie od łącznika i jednej spacji.
+W tym kursie przyjmujemy prostą zasadę: elementy listy wewnętrznej rozpoczynamy od czterech spacji, a następnie wpisujemy łącznik, jedną spację i treść.
 
 Przed każdym elementem listy wewnętrznej wpisz:
 
