@@ -81,7 +81,7 @@ Nie jest to obowiązkowa zasada Markdown. Pomaga jednak utrzymać porządek.
 Markdown korzysta ze znaków takich jak:
 
 ```text
-# * - > [ ] ( ) `
+# * - > [ ] ( )
 ```
 
 Czytnik ekranu może nie wypowiadać wszystkich znaków przy niskim poziomie oznajmiania interpunkcji. Podczas sprawdzania składni warto:
