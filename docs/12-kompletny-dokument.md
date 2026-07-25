@@ -43,7 +43,7 @@ Szczegółowe wyniki znajdują się w [komunikacie organizatora](https://example
 
 Dokument zawiera:
 
-- jeden tytuł poziomu pierwszego;
+- jeden nagłówek poziomu pierwszego;
 - zwykły akapit wprowadzający;
 - nagłówki poziomu drugiego;
 - listę punktowaną;
@@ -56,8 +56,8 @@ Dokument zawiera:
 
 1. Najpierw napisz całą treść.
 2. Podziel tekst na logiczne części.
-3. Nadaj dokumentowi tytuł.
-4. Dodaj nagłówki części.
+3. Dodaj nagłówek poziomu pierwszego.
+4. Dodaj nagłówki kolejnych części.
 5. Zamień wyliczenia na listy.
 6. Dodaj linki i cytaty.
 7. Sprawdź puste wiersze.
@@ -67,11 +67,11 @@ Dokument zawiera:
 
 Przygotuj komunikat zawierający:
 
-- tytuł „Zaproszenie na trening otwarty”;
+- nagłówek poziomu pierwszego „Zaproszenie na trening otwarty”;
 - krótki akapit wprowadzający;
-- nagłówek „Termin i miejsce”;
+- nagłówek poziomu drugiego „Termin i miejsce”;
 - akapit z datą, godziną i miejscem;
-- nagłówek „Co należy zabrać”;
+- nagłówek poziomu drugiego „Co należy zabrać”;
 - listę trzech rzeczy;
 - pogrubiony termin zgłoszeń;
 - link o tekście „Formularz zgłoszeniowy”.
