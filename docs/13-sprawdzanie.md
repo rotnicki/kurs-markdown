@@ -7,7 +7,7 @@ title: "12. Sprawdzanie tekstu i najczęstsze błędy"
 
 Po zakończeniu pisania sprawdź:
 
-1. Czy dokument ma jeden wyraźny tytuł?
+1. Czy dokument ma jeden nagłówek poziomu pierwszego?
 2. Czy kolejne części mają opisowe nagłówki?
 3. Czy poziomy nagłówków tworzą logiczną kolejność?
 4. Czy pomiędzy akapitami znajduje się pusty wiersz?
@@ -68,7 +68,7 @@ Prawidłowo:
 
 ## Błąd: nagłówki użyte wyłącznie dla wyglądu
 
-Nie twórz nagłówka tylko dlatego, że chcesz uzyskać większy tekst. Nagłówek powinien nazywać dokument albo jego część.
+Nie twórz nagłówka tylko dlatego, że chcesz uzyskać większy tekst. Nagłówek powinien nazywać część dokumentu i określać jej miejsce w strukturze.
 
 ## Błąd: pogrubienie zamiast nagłówka
 
