@@ -21,13 +21,13 @@ Pogrubienie tworzymy za pomocą dwóch gwiazdek przed tekstem i dwóch po tekśc
 
 Ważne: pomiędzy gwiazdkami a tekstem nie wstawiaj spacji.
 
-Prawidłowo:
+Poprawny zapis:
 
 ```markdown
 **ważna informacja**
 ```
 
-Nieprawidłowo:
+Niepoprawny zapis:
 
 ```markdown
 ** ważna informacja **
@@ -72,13 +72,13 @@ Nie pogrubiaj całych długich akapitów. Nie używaj pogrubienia zamiast nagł�
 
 Nie przekazuj ważnej informacji wyłącznie przez wygląd. Czytnik ekranu może nie oznajmiać pogrubienia lub kursywy przy domyślnych ustawieniach.
 
-Zamiast:
+Niezalecany zapis:
 
 ```markdown
 Zgłoszenia przyjmujemy **do piątku**.
 ```
 
-lepiej napisać także jednoznacznie:
+Zalecany zapis:
 
 ```markdown
 Termin zgłoszeń: **piątek, 15 sierpnia, godzina 18:00**.
