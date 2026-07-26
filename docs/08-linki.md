@@ -8,8 +8,8 @@ title: "8. Odnośniki, czyli linki"
 Po tej lekcji będziesz umieć:
 
 - utworzyć link;
-- napisać zrozumiały tekst linku;
-- rozpoznać nawiasy kwadratowe i okrągłe.
+- umieścić tekst linku w nawiasach kwadratowych, a adres w nawiasach okrągłych;
+- napisać zrozumiały tekst linku.
 
 ## Budowa linku
 
