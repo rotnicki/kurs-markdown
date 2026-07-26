@@ -49,7 +49,7 @@ W większości prostych dokumentów wystarczą trzy poziomy.
 
 ## Zachowaj prawidłową kolejność
 
-Prawidłowy przykład:
+Poprawny zapis:
 
 ```markdown
 # Wyniki zawodów
@@ -65,7 +65,7 @@ Prawidłowy przykład:
 
 Nie przeskakuj bez potrzeby z poziomu drugiego od razu do czwartego.
 
-Nieprawidłowo:
+Niepoprawny zapis:
 
 ```markdown
 # Wyniki zawodów
@@ -75,13 +75,13 @@ Nieprawidłowo:
 
 ## Po krzyżykach wpisz spację
 
-Prawidłowo:
+Poprawny zapis:
 
 ```markdown
 ## Wyniki
 ```
 
-Nieprawidłowo:
+Niepoprawny zapis:
 
 ```markdown
 ##Wyniki
@@ -91,16 +91,16 @@ Nieprawidłowo:
 
 Nie zastępuj nagłówka samym pogrubieniem.
 
-Mniej poprawnie:
-
-```markdown
-**Wyniki kobiet**
-```
-
-Poprawnie:
+Zalecany zapis:
 
 ```markdown
 ## Wyniki kobiet
+```
+
+Niezalecany zapis:
+
+```markdown
+**Wyniki kobiet**
 ```
 
 Nagłówek określa strukturę. Pogrubienie jest tylko wyróżnieniem fragmentu tekstu.
