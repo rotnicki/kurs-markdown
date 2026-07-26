@@ -1,41 +1,30 @@
 # Markdown od podstaw
 
-Gotowy szkielet samodzielnego kursu Markdown przeznaczonego do publikacji przez GitHub Pages.
+Samodzielny, podstawowy kurs przygotowywania uporządkowanych dokumentów w Markdown.
 
-## Założenia
+[Kurs online](https://rotnicki.github.io/kurs-markdown/)
 
-- uczestnicy korzystają z Windows, Notatnika i czytnika ekranu;
-- kurs nie uczy WordPressa;
-- materiał prowadzi od zwykłego tekstu do kompletnego dokumentu;
-- przykłady i ćwiczenia są związane z działalnością klubu sportowego;
-- strona ma prosty, semantyczny i dostępny układ.
+## O kursie
 
-## Struktura repozytorium
+Kurs jest przeznaczony dla osób, które dopiero zaczynają pracę z Markdown i tworzą lub redagują treści. Prowadzi od zwykłego tekstu do przygotowania kompletnego, uporządkowanego dokumentu.
 
-- `docs/` — gotowa witryna GitHub Pages;
-- `cwiczenia/` — pliki do samodzielnego uzupełnienia;
-- `rozwiazania/` — przykładowe rozwiązania;
-- `docs/materialy/cwiczenia-markdown.zip` — pakiet do pobrania ze strony.
+Obejmuje między innymi:
 
-## Publikacja na GitHub Pages
+- akapity i puste wiersze;
+- nagłówki;
+- listy punktowane i numerowane;
+- pogrubienie i kursywę;
+- linki;
+- cytaty;
+- obrazy i tekst alternatywny;
+- sprawdzanie gotowego dokumentu.
 
-1. Utwórz publiczne repozytorium na GitHubie.
-2. Wgraj całą zawartość tego folderu.
-3. Otwórz ustawienia repozytorium.
-4. Przejdź do sekcji `Pages`.
-5. W części źródła publikacji wybierz publikowanie z gałęzi.
-6. Wybierz gałąź `main` i folder `/docs`.
-7. Zapisz ustawienia.
-8. Po zbudowaniu witryny GitHub poda jej adres.
+Markdown jest niezależny od systemu operacyjnego i programu. W kursie jako wspólne środowisko do ćwiczeń przyjęto Windows i Notatnik.
 
-## Edycja
+Instrukcje zostały przygotowane tak, aby mogły z nich wygodnie korzystać także osoby używające czytników ekranu. Używane znaki i sposób ich wpisywania są opisywane jednoznacznie.
 
-Treść lekcji znajduje się w plikach `.md` w katalogu `docs`. Każdy plik ma na początku krótki blok metadanych YAML wymagany przez Jekyll.
+Kurs przedstawia wybrane podstawy Markdown. Nie obejmuje wszystkich odmian składni ani rozszerzeń dostępnych w poszczególnych programach i serwisach.
 
-Przed publikacją warto uzupełnić:
+## Autor
 
-- nazwę autora kursu;
-- dane klubu;
-- ewentualną licencję;
-- prawdziwe przykładowe adresy;
-- informacje o sposobie uzyskania pomocy.
+Mikołaj Rotnicki
