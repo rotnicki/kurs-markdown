@@ -32,7 +32,7 @@ Na początku każdego elementu wpisz łącznik, jedną spację i treść.
 
 ## Każdy element w osobnym wierszu
 
-Prawidłowo:
+Poprawny zapis:
 
 ```markdown
 - Anna Nowak
@@ -40,7 +40,7 @@ Prawidłowo:
 - Piotr Wiśniewski
 ```
 
-Nieprawidłowo:
+Niepoprawny zapis:
 
 ```markdown
 - Anna Nowak - Jan Kowalski - Piotr Wiśniewski
