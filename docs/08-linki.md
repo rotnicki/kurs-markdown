@@ -40,13 +40,13 @@ Pomiędzy nawiasem kwadratowym zamykającym a nawiasem okrągłym otwierającym 
 
 ## Używaj opisowego tekstu
 
-Dobrze:
+Zalecany zapis:
 
 ```markdown
 Przeczytaj [regulamin zawodów](https://example.com/regulamin).
 ```
 
-Mniej dobrze:
+Niezalecany zapis:
 
 ```markdown
 Aby przeczytać regulamin, [kliknij tutaj](https://example.com/regulamin).
@@ -58,16 +58,16 @@ Tekst linku powinien mieć sens również wtedy, gdy czytnik ekranu odczyta go b
 
 Długi adres może być trudny do odsłuchania i zapamiętania.
 
-Mniej czytelnie:
-
-```markdown
-https://example.com/dokumenty/2026/07/regulamin-zawodow-final.pdf
-```
-
-Czytelniej:
+Zalecany zapis:
 
 ```markdown
 [Regulamin zawodów w pliku PDF](https://example.com/dokumenty/2026/07/regulamin-zawodow-final.pdf)
+```
+
+Niezalecany zapis:
+
+```markdown
+https://example.com/dokumenty/2026/07/regulamin-zawodow-final.pdf
 ```
 
 ## Ćwiczenie
