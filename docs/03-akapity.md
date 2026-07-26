@@ -50,20 +50,20 @@ Nasz klub reprezentowało pięcioro zawodników.
 
 Jeden pusty wiersz wystarcza. Nie ma potrzeby dodawania trzech lub czterech pustych wierszy.
 
-Nieprawidłowo:
+Zalecany zapis:
 
 ```markdown
 Pierwszy akapit.
-
-
 
 Drugi akapit.
 ```
 
-Lepiej:
+Niezalecany zapis:
 
 ```markdown
 Pierwszy akapit.
+
+
 
 Drugi akapit.
 ```
