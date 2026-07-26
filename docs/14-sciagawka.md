@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "13. Ściągawka Markdown"
+title: "Ściągawka Markdown"
 ---
 
 ## Akapit
@@ -114,6 +114,6 @@ W tym kursie elementy listy wewnętrznej rozpoczynamy od czterech spacji.
 
 ## Nawigacja
 
-- [Poprzednia lekcja: Sprawdzanie tekstu](13-sprawdzanie.html)
-- [Wróć do spisu lekcji](index.html)
-- [Oficjalne źródła](15-zrodla.html)
+- [Ostatnia lekcja: Sprawdzanie tekstu i najczęstsze błędy](13-sprawdzanie.html)
+- [Wróć na stronę główną kursu](index.html)
+- [Źródła merytoryczne](15-zrodla.html)
