@@ -58,8 +58,8 @@ Najlepiej uczyć się po jednej lekcji naraz. Każda z nich powinna zająć oko�
 
 - [Źródła merytoryczne kursu](15-zrodla.html).
 
+> Najważniejsza zasada: Markdown to nadal zwykły tekst. Kilka prostych znaków informuje tylko, czym jest dany fragment dokumentu.
+
 ## Informacje o kursie
 
 Opracowanie i pierwsza publikacja: lipiec 2026.
-
-> Najważniejsza zasada: Markdown to nadal zwykły tekst. Kilka prostych znaków informuje tylko, czym jest dany fragment dokumentu.
