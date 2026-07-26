@@ -3,7 +3,7 @@ layout: page
 title: "Ściągawka Markdown"
 ---
 
-Ta ściągawka przypomina podstawowe sposoby zapisywania dokumentów w Markdown. Szczegółowe wyjaśnienia i ćwiczenia znajdują się w poszczególnych lekcjach kursu.
+Ta ściągawka przypomina podstawowe sposoby zapisywania dokumentów w Markdown.
 
 Ta sama treść jest dostępna również w [prostym pliku tekstowym do otwarcia lub zapisania na komputerze](pliki/sciagawka-markdown.txt).
 
@@ -67,7 +67,7 @@ Zapis:
 
 ### Zagnieżdżona lista punktowana
 
-W tym kursie elementy listy wewnętrznej rozpoczynamy od czterech zwykłych spacji.
+Elementy listy wewnętrznej rozpocznij od czterech zwykłych spacji.
 
 Zapis:
 
@@ -94,7 +94,7 @@ Zapis:
 
 ### Zagnieżdżona lista numerowana
 
-W tym kursie elementy listy wewnętrznej rozpoczynamy od czterech zwykłych spacji.
+Elementy listy wewnętrznej rozpocznij od czterech zwykłych spacji.
 
 Zapis:
 
