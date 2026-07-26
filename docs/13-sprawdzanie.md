@@ -20,15 +20,7 @@ Po zakończeniu pisania sprawdź:
 
 ## Błąd: brak spacji po znaku
 
-Nieprawidłowo:
-
-```markdown
-##Wyniki
--Adam Nowak
->To jest cytat.
-```
-
-Prawidłowo:
+Poprawny zapis:
 
 ```markdown
 ## Wyniki
@@ -38,32 +30,40 @@ Prawidłowo:
 > To jest cytat.
 ```
 
-## Błąd: niezamknięte pogrubienie
-
-Nieprawidłowo:
+Niepoprawny zapis:
 
 ```markdown
-**Termin zgłoszeń upływa w piątek.
+##Wyniki
+-Adam Nowak
+>To jest cytat.
 ```
 
-Prawidłowo:
+## Błąd: niezamknięte pogrubienie
+
+Poprawny zapis:
 
 ```markdown
 **Termin zgłoszeń upływa w piątek.**
 ```
 
-## Błąd: spacja w linku pomiędzy nawiasami
-
-Nieprawidłowo:
+Niepoprawny zapis:
 
 ```markdown
-[Regulamin] (https://example.com/regulamin)
+**Termin zgłoszeń upływa w piątek.
 ```
 
-Prawidłowo:
+## Błąd: spacja w linku pomiędzy nawiasami
+
+Poprawny zapis:
 
 ```markdown
 [Regulamin](https://example.com/regulamin)
+```
+
+Niepoprawny zapis:
+
+```markdown
+[Regulamin] (https://example.com/regulamin)
 ```
 
 ## Błąd: nagłówki użyte wyłącznie dla wyglądu
@@ -72,32 +72,32 @@ Nie twórz nagłówka tylko dlatego, że chcesz uzyskać większy tekst. Nagłó
 
 ## Błąd: pogrubienie zamiast nagłówka
 
-Mniej poprawnie:
-
-```markdown
-**Wyniki**
-```
-
-Poprawnie:
+Zalecany zapis:
 
 ```markdown
 ## Wyniki
 ```
 
-## Błąd: lista wpisana w jednym wierszu
-
-Nieprawidłowo:
+Niezalecany zapis:
 
 ```markdown
-- Anna - Jan - Piotr
+**Wyniki**
 ```
 
-Prawidłowo:
+## Błąd: lista wpisana w jednym wierszu
+
+Poprawny zapis:
 
 ```markdown
 - Anna
 - Jan
 - Piotr
+```
+
+Niepoprawny zapis:
+
+```markdown
+- Anna - Jan - Piotr
 ```
 
 ## Jak sprawdzać znaki czytnikiem ekranu
