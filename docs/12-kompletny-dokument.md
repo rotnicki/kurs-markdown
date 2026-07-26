@@ -5,9 +5,15 @@ title: "11. Kompletny dokument"
 
 ## Cel lekcji
 
-W tej lekcji połączysz poznane elementy w jeden komunikat klubowy.
+W tej lekcji połączysz poznane elementy w jeden komunikat klubowy i zapiszesz gotowy dokument pod czytelną nazwą z rozszerzeniem `.md`.
 
 ## Przykładowy dokument
+
+Przykładowy dokument można zapisać w pliku o nazwie:
+
+```text
+wyniki-turnieju-showdown.md
+```
 
 ```markdown
 # Udany start zawodników w turnieju showdown
@@ -56,14 +62,15 @@ Dokument zawiera:
 
 ## Kolejność pracy autora
 
-1. Najpierw napisz całą treść.
-2. Podziel tekst na logiczne części.
-3. Dodaj nagłówek poziomu pierwszego.
-4. Dodaj nagłówki kolejnych części.
-5. Zamień wyliczenia na listy.
-6. Dodaj linki i cytaty.
-7. Sprawdź puste wiersze.
-8. Przeczytaj cały dokument od początku.
+1. Utwórz nowy dokument i zapisz go pod nazwą opisującą jego zawartość.
+2. Napisz całą treść.
+3. Podziel tekst na logiczne części.
+4. Dodaj nagłówek poziomu pierwszego.
+5. Dodaj nagłówki kolejnych części.
+6. Zamień wyliczenia na listy.
+7. Dodaj linki i cytaty.
+8. Sprawdź puste wiersze.
+9. Przeczytaj cały dokument od początku.
 
 ## Ćwiczenie końcowe
 
@@ -78,6 +85,12 @@ Przygotuj komunikat zawierający:
 - pogrubiony termin zgłoszeń;
 - link o tekście „Formularz zgłoszeniowy”.
 
+Zapisz dokument w pliku o nazwie:
+
+```text
+zaproszenie-na-trening-otwarty.md
+```
+
 Możesz użyć przykładowego adresu:
 
 ```text
@@ -85,6 +98,12 @@ https://example.com/formularz
 ```
 
 ## Przykładowe rozwiązanie
+
+Przykładowe rozwiązanie powinno znajdować się w pliku:
+
+```text
+zaproszenie-na-trening-otwarty.md
+```
 
 ```markdown
 # Zaproszenie na trening otwarty
