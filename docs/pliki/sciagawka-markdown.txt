@@ -1,0 +1,153 @@
+Ściągawka Markdown
+
+Ta ściągawka przypomina podstawowe sposoby zapisywania dokumentów w Markdown. Szczegółowe wyjaśnienia i ćwiczenia znajdują się w poszczególnych lekcjach kursu.
+
+
+1. Akapity
+
+Pomiędzy kolejnymi akapitami pozostaw jeden pusty wiersz.
+
+Zapis:
+
+Pierwszy akapit.
+
+Drugi akapit.
+
+
+2. Nagłówki
+
+Na początku wiersza wpisz odpowiednią liczbę znaków krzyżyka, następnie jedną spację i treść nagłówka.
+
+2.1. Nagłówek poziomu pierwszego
+
+Zapis:
+
+# Nagłówek poziomu pierwszego
+
+W prostym samodzielnym dokumencie używaj jednego nagłówka poziomu pierwszego.
+
+2.2. Nagłówek poziomu drugiego
+
+Zapis:
+
+## Nagłówek poziomu drugiego
+
+2.3. Nagłówek poziomu trzeciego
+
+Zapis:
+
+### Nagłówek poziomu trzeciego
+
+Nagłówki powinny tworzyć logiczną strukturę. Nie pomijaj poziomów tylko po to, aby zmienić wygląd tekstu.
+
+
+3. Listy
+
+3.1. Lista punktowana
+
+Każdy element rozpocznij łącznikiem i jedną spacją. Każdy element umieść w osobnym wierszu.
+
+Zapis:
+
+- pierwszy element
+- drugi element
+- trzeci element
+
+3.2. Zagnieżdżona lista punktowana
+
+W tym kursie elementy listy wewnętrznej rozpoczynamy od czterech zwykłych spacji.
+
+Zapis:
+
+- Dokumenty:
+    - legitymacja
+    - zgoda opiekuna
+- Wyposażenie:
+    - strój sportowy
+    - woda
+
+3.3. Lista numerowana
+
+Wpisz numer, kropkę, jedną spację i treść elementu. Każdy element umieść w osobnym wierszu.
+
+Zapis:
+
+1. pierwszy krok
+2. drugi krok
+3. trzeci krok
+
+3.4. Zagnieżdżona lista numerowana
+
+W tym kursie elementy listy wewnętrznej rozpoczynamy od czterech zwykłych spacji.
+
+Zapis:
+
+1. Przygotuj dokument.
+    1. Napisz treść.
+    2. Dodaj nagłówki.
+2. Sprawdź dokument.
+
+
+4. Wyróżnienia
+
+4.1. Pogrubienie
+
+Umieść dwie gwiazdki przed tekstem i dwie gwiazdki po tekście. Nie dodawaj spacji pomiędzy gwiazdkami a wyróżnianym tekstem.
+
+Zapis:
+
+**ważny tekst**
+
+4.2. Kursywa
+
+Umieść jedną gwiazdkę przed tekstem i jedną gwiazdkę po tekście.
+
+Zapis:
+
+*tytuł książki lub wyróżniony tekst*
+
+
+5. Linki
+
+Tekst linku umieść w nawiasach kwadratowych. Bezpośrednio po nich wpisz adres w nawiasach okrągłych.
+
+Zapis:
+
+[Opis linku](https://example.com)
+
+Tekst linku powinien informować, dokąd prowadzi odnośnik. Unikaj określeń takich jak „kliknij tutaj”.
+
+
+6. Cytaty
+
+Na początku każdego cytowanego akapitu wpisz znak większości i jedną spację.
+
+Zapis:
+
+> Treść cytatu.
+
+
+7. Obrazy
+
+Rozpocznij zapis wykrzyknikiem. Tekst alternatywny umieść w nawiasach kwadratowych, a adres lub ścieżkę do obrazu w nawiasach okrągłych.
+
+Zapis:
+
+![Krótki tekst alternatywny](https://example.com/obraz.jpg)
+
+Tekst alternatywny powinien krótko przekazywać istotną treść lub funkcję obrazu.
+
+
+8. Kontrola przed przekazaniem dokumentu
+
+Sprawdź, czy:
+
+- prosty samodzielny dokument ma jeden nagłówek poziomu pierwszego;
+- nagłówki występują w logicznej kolejności;
+- pomiędzy akapitami znajdują się puste wiersze;
+- każdy element listy znajduje się w osobnym wierszu;
+- elementy listy wewnętrznej rozpoczynają się od czterech spacji;
+- linki mają zrozumiałe i opisowe nazwy;
+- gwiazdki i nawiasy występują parami;
+- w dokumencie nie pozostały przypadkowe znaki;
+- dokument jest zrozumiały po odczytaniu od początku do końca.
