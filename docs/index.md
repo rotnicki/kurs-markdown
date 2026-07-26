@@ -25,7 +25,7 @@ Do nauki wystarczą:
 - przeglądarka internetowa;
 - czytnik ekranu — jeżeli z niego korzystasz.
 
-Nie trzeba instalować rozbudowanego edytora ani zapamiętywać wszystkiego. Zawsze można wrócić do [krótkiej ściągawki](14-sciagawka.html).
+Nie trzeba instalować rozbudowanego edytora ani zapamiętywać wszystkiego. Najważniejsze zapisy zebrano w ściągawce dostępnej w sekcji „Materiały”.
 
 ## Jak korzystać z kursu
 
@@ -52,11 +52,11 @@ Najlepiej uczyć się po jednej lekcji naraz. Każda z nich powinna zająć oko�
 10. [Obrazy i tekst alternatywny — lekcja dodatkowa](11-obrazy.html)
 11. [Kompletny dokument](12-kompletny-dokument.html)
 12. [Sprawdzanie tekstu i najczęstsze błędy](13-sprawdzanie.html)
-13. [Ściągawka](14-sciagawka.html)
 
 ## Materiały
 
-- [Źródła merytoryczne kursu](15-zrodla.html).
+- [Ściągawka Markdown](14-sciagawka.html)
+- [Źródła merytoryczne kursu](15-zrodla.html)
 
 > Najważniejsza zasada: Markdown to nadal zwykły tekst. Kilka prostych znaków informuje tylko, czym jest dany fragment dokumentu.
 
