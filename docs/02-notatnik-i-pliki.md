@@ -45,13 +45,13 @@ pierwszy-dokument.md
 
 ## Jak sprawdzić nazwę
 
-Poprawna nazwa:
+Poprawny zapis:
 
 ```text
 pierwszy-dokument.md
 ```
 
-Niepoprawna nazwa:
+Niepoprawny zapis:
 
 ```text
 pierwszy-dokument.md.txt
