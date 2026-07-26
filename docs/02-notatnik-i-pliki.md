@@ -45,13 +45,13 @@ pierwszy-dokument.md
 
 ## Jak sprawdzić nazwę
 
-Prawidłowa nazwa kończy się dokładnie tak:
+Poprawna nazwa:
 
 ```text
-.md
+pierwszy-dokument.md
 ```
 
-Nieprawidłowy przykład:
+Niepoprawna nazwa:
 
 ```text
 pierwszy-dokument.md.txt
