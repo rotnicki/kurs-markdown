@@ -5,6 +5,15 @@ title: "10. Obrazy i tekst alternatywny — lekcja dodatkowa"
 
 Ta lekcja jest dodatkowa. Na początku można ją pominąć.
 
+## Czego nauczysz się w tej lekcji
+
+Po tej lekcji będziesz umieć:
+
+- osadzić obraz za pomocą odwołania do pliku;
+- umieścić tekst alternatywny w nawiasach kwadratowych;
+- umieścić adres lub ścieżkę do obrazu w nawiasach okrągłych;
+- odróżnić tekst alternatywny od podpisu pod obrazem.
+
 ## Osadzanie obrazu w dokumencie
 
 Markdown nie tworzy obrazu ani nie zapisuje go wewnątrz dokumentu. Zapis w Markdown wskazuje osobny plik graficzny, który program wyświetlający dokument może osadzić w odpowiednim miejscu.
