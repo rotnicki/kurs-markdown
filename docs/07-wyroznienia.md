@@ -72,16 +72,16 @@ Nie pogrubiaj całych długich akapitów. Nie używaj pogrubienia zamiast nagł�
 
 Nie przekazuj ważnej informacji wyłącznie przez wygląd. Czytnik ekranu może nie oznajmiać pogrubienia lub kursywy przy domyślnych ustawieniach.
 
-Niezalecany zapis:
-
-```markdown
-Zgłoszenia przyjmujemy **do piątku**.
-```
-
 Zalecany zapis:
 
 ```markdown
 Termin zgłoszeń: **piątek, 15 sierpnia, godzina 18:00**.
+```
+
+Niezalecany zapis:
+
+```markdown
+Zgłoszenia przyjmujemy **do piątku**.
 ```
 
 ## Ćwiczenie
